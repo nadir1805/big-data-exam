@@ -14,7 +14,7 @@ Description des étapes nécesaires pour la réalisation de notre tableau de bor
 
 ![alt text](https://github.com/nadir1805/big-data-exam/blob/main/architecture%20examen.png)
 
-### Simulation
+### Simulation de données avec python
 
 ![alt text](https://github.com/nadir1805/big-data-exam/blob/main/simulation.PNG)
 
