@@ -1,4 +1,4 @@
-# Big Data exam: predictive maintenance
+# Big Data exam: 
 ### Supervised by: Pr. Hajji Mohammed and Pr. AIT BAHA Tarik
 ### Realised by: EL BOUANANI Nadir
 
