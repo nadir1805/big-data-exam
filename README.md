@@ -2,10 +2,8 @@
 ### Supervised by: Pr. Hajji Mohammed and Pr. AIT BAHA Tarik
 ### Realised by: EL BOUANANI Nadir
 
-Guide:
-article : contient une description des étapes nécesaires pour la réalisation de notre tableau de bord  en temps</br>
- réel .</br></br>
-video: contient la simulation de l'architecture :</br>
+contient une description des étapes nécesaires pour la réalisation de notre tableau de bord  en temps réel.</br></br>
+ Les étapes architecture :</br>
 1- Generation des données et envoie aux topics MQTT</br>
 2-  Réception des données sur un broker MQTT</br>
 3- node red: prend les données du MQTT et envoi ces dernier à influxdb</br>
