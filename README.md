@@ -18,11 +18,11 @@ video: contient la simulation de l'architecture :</br>
 
 ### Simulation
 
-![alt text](https://github.com/nadir1805/big-data-exam/blob/main/architecture%20exam.png)
+![alt text](https://github.com/nadir1805/big-data-exam/blob/main/simulation.PNG)
 
 ### MQTT
 
-![alt text](https://github.com/nadir1805/big-data-exam/blob/main/architecture%20exam.png)
+![alt text](https://github.com/nadir1805/big-data-exam/blob/main/MQTT.png)
 
 ### Node-red
 
