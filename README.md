@@ -16,7 +16,7 @@ Description des étapes nécesaires pour la réalisation de notre tableau de bor
 
 ### Simulation de données avec python
 
-J'ai utilisé une script avec python pour la génération de données en temps à la place des capteurs, données génerer: AIR & Process Temperature, Rotaion, tool ...</br>
+J'ai utilisé une script avec python (producer.ipynb) pour la génération de données en temps à la place des capteurs, données génerer: AIR & Process Temperature, Rotaion, tool ...</br>
 
 ![alt text](https://github.com/nadir1805/big-data-exam/blob/main/simulation.PNG)
 
