@@ -16,6 +16,8 @@ Description des étapes nécesaires pour la réalisation de notre tableau de bor
 
 ### Simulation de données avec python
 
+J'ai utilisé une script avec python pour la génération de données en temps à la place des capteurs, données génerer: AIR & Process Temperature, Rotaion, tool ...</br>
+
 ![alt text](https://github.com/nadir1805/big-data-exam/blob/main/simulation.PNG)
 
 ### MQTT
@@ -37,5 +39,13 @@ Description des étapes nécesaires pour la réalisation de notre tableau de bor
 ![alt text](https://github.com/nadir1805/big-data-exam/blob/main/InfluxDB2.png)
 
 ### Tableau de bord grafana
+
+Règles de génération du dashboard:
+
+1- choix d'une structure(squelette) adapté et clair
+2- Placement des données en haute vers le bas( du général au détail) et les données importants du coin gauche à la droite
+3- double de margin 
+4- couleur adapté aux niveau de chaque variable
+
 
 ![alt text](https://github.com/nadir1805/big-data-exam/blob/main/GRAFANA.png)
