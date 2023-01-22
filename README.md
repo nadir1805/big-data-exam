@@ -2,7 +2,7 @@
 ### Supervised by: Pr. Hajji Mohammed and Pr. AIT BAHA Tarik
 ### Realised by: EL BOUANANI Nadir
 
-contient une description des étapes nécesaires pour la réalisation de notre tableau de bord  en temps réel.</br></br>
+Description des étapes nécesaires pour la réalisation de notre tableau de bord  en temps réel.</br></br>
  Les étapes architecture :</br>
 1- Generation des données et envoie aux topics MQTT</br>
 2-  Réception des données sur un broker MQTT</br>
@@ -12,7 +12,7 @@ contient une description des étapes nécesaires pour la réalisation de notre t
 
 ### Architecture
 
-![alt text](https://github.com/nadir1805/big-data-exam/blob/main/architecture%20exam.png)
+![alt text](https://github.com/nadir1805/big-data-exam/blob/main/architecture%20examen.png)
 
 ### Simulation
 
